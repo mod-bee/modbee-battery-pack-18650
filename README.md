@@ -52,6 +52,9 @@ The ModBee Battery Pack 18650 is a compact, protected **3S** (3 cells in series)
 | **OV Accuracy** | ±10 mV | Per cell overvoltage threshold |
 | **UV Accuracy** | ±18 mV | Per cell undervoltage threshold |
 | **Stackability** | 3S to 20S+ | Daisy-chain stacking via dedicated pins; use M3/M4 standoffs |
+| **Dimensions (L × W × H)** | 118 × 78 × 45 mm | Compact form factor for portable applications |
+| **Mounting** | DIN Rail Mount | Compatible with standard 35 mm DIN rail systems |
+connector |
 
 ## Usage Instructions
 
