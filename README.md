@@ -2,6 +2,8 @@
 
 **Protected 3S Li-ion battery pack with TI BQ77915**
 
+![ModBee Battery Pack](./images/modbee-battery-pack-18650-Assembly-1.webp)
+
 ## Overview
 
 The ModBee Battery Pack 18650 is a compact, protected **3S** (3 cells in series) lithium-ion battery pack utilizing standard **18650** cells. It features the **Texas Instruments BQ7791501PWR** primary protector IC for ultra-low power operation, autonomous cell balancing, and comprehensive voltage, current, and temperature protections. This design is optimized for portable devices, solar charging systems, or applications requiring reliable battery management without a microcontroller.
